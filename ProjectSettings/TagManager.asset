@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Pistol
+  - NPC
+  - PlayerPistol
+  - ItemOnGround
+  - Walls
+  - Ground
+  - Mamonka
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: TestSciany
+    uniqueID: 2846528805
+    locked: 0
+  - name: Ground
+    uniqueID: 1337404259
+    locked: 0
+  - name: Characters
+    uniqueID: 2111099713
+    locked: 0
+  - name: OnInterior
+    uniqueID: 2451566109
+    locked: 0

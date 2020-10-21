@@ -1,0 +1,16 @@
+title: Start
+tags: 
+colorID: 0
+position: 1141,-90
+---
+<<if $wheelchairGleba is 0>>
+Such a wonderfull day today, isn't it?
+    -> I guess so...
+    -> Not really.
+        Oh. I hope it gets better for you.
+<<endif>>
+<<if $wheelchairGleba is 1>>
+I don't know why but I have a bad feeling about you.
+    -> I wonder why.
+<<endif>>
+===

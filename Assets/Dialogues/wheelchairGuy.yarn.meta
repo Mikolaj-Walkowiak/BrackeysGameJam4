@@ -1,0 +1,33 @@
+fileFormatVersion: 2
+guid: 0c1a287bdb3b7eb4f9d0128c99b7b7ea
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 94073015eacc34c1d8fc6786e43d60ca, type: 3}
+  baseLanguageID: 
+  stringIDs:
+  - wheelchairGuy-Start-0
+  - wheelchairGuy-Start-1
+  - wheelchairGuy-Start-2
+  - wheelchairGuy-Start-3
+  - wheelchairGuy-Start-4
+  - wheelchairGuy-Start-5
+  - wheelchairGuy-Start-6
+  - wheelchairGuy-Start-7
+  compilationStatus: 1
+  isSuccesfullyCompiled: 1
+  compilationErrorMessage: 'Error on line 13 at position 1:
+
+    mismatched input
+    ''==='' expecting COMMAND_START
+
+    ===
+
+    ^^^'
+  baseLanguage: {fileID: 7128917941130120860, guid: 0c1a287bdb3b7eb4f9d0128c99b7b7ea,
+    type: 3}
+  localizations: []

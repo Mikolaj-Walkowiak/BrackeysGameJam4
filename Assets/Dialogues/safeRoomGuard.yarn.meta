@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: d000311fb21e9a842a48e1144fc4a727
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 94073015eacc34c1d8fc6786e43d60ca, type: 3}
+  baseLanguageID: 
+  stringIDs: []
+  compilationStatus: 0
+  isSuccesfullyCompiled: 0
+  compilationErrorMessage: 'Error on line 10 at position 1:
+
+    mismatched input
+    ''==='' expecting COMMAND_START
+
+    ===
+
+    ^^^'
+  baseLanguage: {instanceID: 0}
+  localizations: []

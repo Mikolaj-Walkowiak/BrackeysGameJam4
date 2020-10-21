@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 173af11f9e3a46b4994b35de3e72c0b6
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 94073015eacc34c1d8fc6786e43d60ca, type: 3}
+  baseLanguageID: 
+  stringIDs:
+  - AlienAdonis-AlienAdonis.Start-0
+  - AlienAdonis-AlienAdonis.Start-1
+  - AlienAdonis-AlienAdonis.Start-2
+  - AlienAdonis-AlienAdonis.Start-3
+  compilationStatus: 1
+  isSuccesfullyCompiled: 1
+  compilationErrorMessage: 
+  baseLanguage: {instanceID: 0}
+  localizations: []

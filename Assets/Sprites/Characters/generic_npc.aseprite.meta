@@ -1,0 +1,44 @@
+fileFormatVersion: 2
+guid: fe5e3aadb72fd7d418f3d1f4b0a96b1b
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 25a63327f814cd04cbdbd7e8ae6dfcf9, type: 3}
+  textureSettings:
+    textureType: 8
+    pixelsPerUnit: 16
+    mirror: 0
+    transparentMask: 0
+    transparentColor: {r: 1, g: 0, b: 1, a: 1}
+    meshType: 1
+    extrudeEdges: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    generatePhysics: 1
+    wrapMode: 1
+    filterMode: 0
+    tileSize: {x: 32, y: 32}
+    tilePadding: {x: 0, y: 0}
+    tileOffset: {x: 0, y: 0}
+  animationSettings:
+  - animationName: Down
+    loopTime: 1
+    about: "Animation Type:\tForward\r\nAnimation:\tFrom: 0; To: 6"
+  - animationName: Up
+    loopTime: 1
+    about: "Animation Type:\tForward\r\nAnimation:\tFrom: 7; To: 13"
+  - animationName: Left
+    loopTime: 1
+    about: "Animation Type:\tForward\r\nAnimation:\tFrom: 14; To: 20"
+  - animationName: Right
+    loopTime: 1
+    about: "Animation Type:\tForward\r\nAnimation:\tFrom: 21; To: 27"
+  - animationName: Idle
+    loopTime: 1
+    about: "Animation Type:\tForward\r\nAnimation:\tFrom: 28; To: 32"
+  atlas: {instanceID: 0}
+  importType: 1
+  bindType: 0

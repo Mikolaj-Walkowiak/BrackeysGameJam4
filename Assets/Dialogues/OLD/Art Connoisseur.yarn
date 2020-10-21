@@ -1,0 +1,21 @@
+title: Start.ArtConnoisseur
+tags: 
+colorID: 0
+position: 1619,-212
+---
+Art Connoisseur: Did you see these paintings?
+
+Art Connoisseur: They are the finest works in the entire world!
+
+-> No
+   Art Connoisseur: Well, that's because you're retarded. 
+   Art Connoisseur: If you took even one second to look you wouldn't be such an uncultured swine!
+
+-> Yes
+    Art Connoisseur: Marvelous! I see you're a man of culture as well. 
+    Art Connoisseur: Which one is your favourite? Mine is "Cobalus regem" by Jane Mariane!
+    -> I like it as well!
+        Art Connoisseur: I knew it from the start that you're a good kid!
+    -> I dont like Cobalus, I prefer Nugor calamo.
+        Art Connoisseur: Well maybe you aren't so smart after all.
+===

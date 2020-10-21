@@ -1,0 +1,11 @@
+title: Start
+tags: 
+colorID: 0
+position: 1091,-220
+---
+<<if $wheelchairGleba is 0>>
+Sorry, I can't let you in.
+-> Oh, sorry  I must have gone the wrong way.
+    -> (...I need to distract him somehow.)
+<<endif>>
+===

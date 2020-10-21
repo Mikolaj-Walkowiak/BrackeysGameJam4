@@ -1,0 +1,17 @@
+title: Start
+tags: 
+colorID: 0
+position: 1091,-220
+---
+<<if $hasNoAmmo is 0>>
+Hey! Stop it right there!
+<<set $alarm to 1>>
+-> Oh shit!
+<<endif>>
+<<if $hasNoAmmo is 1>>
+Hey! Stop it right there!
+-> Damn it, not again...
+    Wait, I'm out of ammo! Please don't kill me!
+    -> Know my mercy.
+<<endif>>
+===

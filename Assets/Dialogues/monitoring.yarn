@@ -1,0 +1,8 @@
+title: Start
+tags: 
+colorID: 0
+position: 1091,-220
+---
+You can't be here!
+<<set $alarm to 1>>
+===

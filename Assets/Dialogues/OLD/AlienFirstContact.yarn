@@ -1,0 +1,26 @@
+title: Alien.Start
+tags: 
+colorID: 0
+position: 1165,38
+---
+-> Hello
+Alien: Do you think that I have a big pee pee?
+
+[[ Yes, it's the biggest one that I've ever seen |biggest]] 
+[[ Not really, it's actually very small baka: |smallest]]
+===
+title: biggest
+tags: 
+colorID: 0
+position: 912,341
+---
+Alien: Thank you, So glad that you like it OwO!
+===
+title: smallest
+tags: 
+colorID: 0
+position: 1425,315
+---
+<<set $Szczescie to 0>>
+Alien: UwU you've hurt my feelings :(((((((((((((((((((((((((
+===

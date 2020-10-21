@@ -1,0 +1,15 @@
+title: AlienAdonis.Start
+tags: 
+colorID: 0
+position: 1191,40
+---
+<<if $alienKilled is 0>>
+    Did you see that alien from Cipsko1 planet?
+    He's so ugly I wish he was dead UwU.
+<<endif>>
+
+<<if $alienKilled is 1>>
+    Wow that alien from Cipsko1 is dead OwO.
+    I'm so happy!
+<<endif>>
+===

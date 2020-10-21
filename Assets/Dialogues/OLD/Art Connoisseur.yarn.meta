@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: 33c05c6cb14dda64eb34506ea57163ad
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 94073015eacc34c1d8fc6786e43d60ca, type: 3}
+  baseLanguageID: 
+  stringIDs:
+  - Art Connoisseur-Start.ArtConnoisseur-0
+  - Art Connoisseur-Start.ArtConnoisseur-1
+  - Art Connoisseur-Start.ArtConnoisseur-2
+  - Art Connoisseur-Start.ArtConnoisseur-3
+  - Art Connoisseur-Start.ArtConnoisseur-4
+  - Art Connoisseur-Start.ArtConnoisseur-5
+  - Art Connoisseur-Start.ArtConnoisseur-6
+  - Art Connoisseur-Start.ArtConnoisseur-7
+  - Art Connoisseur-Start.ArtConnoisseur-8
+  - Art Connoisseur-Start.ArtConnoisseur-9
+  - Art Connoisseur-Start.ArtConnoisseur-10
+  - Art Connoisseur-Start.ArtConnoisseur-11
+  compilationStatus: 1
+  isSuccesfullyCompiled: 1
+  compilationErrorMessage: 
+  baseLanguage: {instanceID: 0}
+  localizations: []

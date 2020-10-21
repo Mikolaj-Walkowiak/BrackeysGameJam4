@@ -1,0 +1,10 @@
+title: Start
+tags: 
+colorID: 0
+position: 1076,-447
+---
+-> Hey! Give me your safe key right now!
+    I'd rather die!
+    <<set $alarm to 1>>
+    -> As you wish, fool.
+===

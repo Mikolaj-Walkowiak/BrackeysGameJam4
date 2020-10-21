@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: d8caf781aa94c5c4287bcb8c4110c188
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 94073015eacc34c1d8fc6786e43d60ca, type: 3}
+  baseLanguageID: 
+  stringIDs:
+  - AlienBrother-Alien2.Start-0
+  - AlienBrother-Alien2.Start-1
+  - AlienBrother-Alien2.Start-2
+  - AlienBrother-Alien2.Start-3
+  - AlienBrother-Alien2.Start-4
+  compilationStatus: 1
+  isSuccesfullyCompiled: 1
+  compilationErrorMessage: 
+  baseLanguage: {instanceID: 0}
+  localizations: []

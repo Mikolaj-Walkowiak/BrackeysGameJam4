@@ -1,0 +1,14 @@
+title: Start
+tags: 
+colorID: 0
+position: 1091,-220
+---
+<<if $isInUniform is 0>>
+Sorry, only authorized personel after this point.
+    ->(... I need to find some new clothes.)
+<<endif>>
+<<if $isInUniform is 1>>
+Have a nice day sir.
+-> Thanks.
+<<endif>>
+===
